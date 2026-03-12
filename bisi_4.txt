@@ -1,1 +1,2 @@
-Data BASE MANAGEMENT ACCOUNt
+Data BASE MANAGEMENT Account
+All data must be captured in this file
